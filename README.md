@@ -5,4 +5,6 @@ A scatter plot showing the 35 cycling fastest times up <a href="http://bike-oisa
 
 Tech used: D3.js, JavaScript
 
+Take a look at it in <a href="https://codepen.io/su6a12/full/LGqzpN">CodePen</a>
+
 https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/cyclist-data.json
